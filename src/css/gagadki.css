@@ -25,3 +25,19 @@
 .contact nav a.nav-link{
     font-size: 10pt;
 }
+
+.message-item img {
+    width: 120px;
+    display: inline-block;
+}
+
+.message-item div.media-body1{
+    width:90%;
+    display: inline-block;
+
+}
+.tags {
+    width:90%;
+    display: block;
+}
+
