@@ -74,6 +74,10 @@ body {
 .bg-purple {
     background-color: #717171;
 }
+.bg-gray {
+    background-color: #cccccc;
+}
+
 
 .lh-100 {
     line-height: 1;
